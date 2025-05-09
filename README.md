@@ -1,6 +1,9 @@
 # Introduction
 This is my documented walkthrough of the [VON Network Tutorial](https://github.com/bcgov/von-network/blob/main/docs/Writing%20Transactions%20to%20a%20Ledger%20for%20an%20Un-privileged%20Author.md).
 
+First, here is a quick overview of the system I am trying to build:
+![concepts](images/concepts.png)
+
 # Steps
 ### Start the von network
 ```
